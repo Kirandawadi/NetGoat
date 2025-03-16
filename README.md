@@ -8,8 +8,10 @@ allowing developers and security professionals to learn about web application se
 This application contains known vulnerabilities and should only be run in a controlled environment.  
 Do not expose it to the internet or use it on a production system.  
 
-## Getting Started  
-More details on setup, usage, and lessons will be added soon.  
+## Security Scanning with Semgrep  
+
+As part of NetGoat, we are developing **Semgrep rules** to detect security vulnerabilities at the source code level.  
+These rules will help identify common flaws within ASP.NET applications, providing a practical approach to secure coding.  
 
 ---
 Inspired by WebGoat (OWASP).  
